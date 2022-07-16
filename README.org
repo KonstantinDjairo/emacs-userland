@@ -1,6 +1,10 @@
-** emacs-userland
+* emacs-userland
 
 [[./img/emacs-gnu-richard.jpg]]
 
 
 why use a knife when u got a chainsaw?
+
+** list of emacs alternatives that can replace your daily software  
+  + org-roam    -   notion
+  + emms        -   music player
