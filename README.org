@@ -1,2 +1,6 @@
 ** emacs-userland
-  why use a knife when u got a chainsaw?
+
+[[./img/emcs-gnu-richard.webp]]
+
+
+why use a knife when u got a chainsaw?
