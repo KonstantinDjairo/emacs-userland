@@ -1,6 +1,6 @@
 ** emacs-userland
 
-[[./img/emcs-gnu-richard.webp]]
+[[./img/emcs-gnu-richard.jpg]]
 
 
 why use a knife when u got a chainsaw?
