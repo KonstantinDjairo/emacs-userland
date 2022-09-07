@@ -5,6 +5,29 @@
 
 why use a knife when u got a chainsaw?
 
-** list of emacs alternatives that can replace your daily software  
-  + org-roam    -   notion
-  + emms        -   music player
+** list of emacs alternatives that can replace your daily software
+
+|                                       | Software                                          | Built-in alternative | Third party alternative        |
+|---------------------------------------+---------------------------------------------------+----------------------+--------------------------------|
+| /                                     | <                                                 |                      | >                              |
+| Agenda, habit/time tracker, TODO list | gnome-todo, task, todoist, tudu...                | org, org-agenda      |                                |
+| Calculator                            | gnome-calculator, kalgebra, kcalc, bc...          | calc                 |                                |
+| Diff tool                             | kompare, diff...                                  | diff, ediff          |                                |
+| E-mail client                         | thunderbird, (neo)mutt...                         | gnus, rmail          | mu4e, notmuch                  |
+| File manager                          | nautilus, dolphin, pcmanfm, ranger, lf...         | dired                | ranger, dirvish                |
+| File tree manager                     | tree...                                           | speedbar             | neotree, treemacs              |
+| Image viewer                          | eye of gnome (eog), gwenview, feh, (n)sxiv...     | image-mode           | peep-dired, dirvish            |
+| IRC client                            | hexchat, konversation, weechat, irssi...          | erc, rcirc           |                                |
+| Literate programming                  | jupyter                                           | org                  |                                |
+| Modal editing                         | (neo)vim, kakoune...                              | viper                | evil, meow                     |
+| Music player                          | clementine, moc, cmus...                          |                      | emms, bongo                    |
+| Music player (mpd client)             | ncmpc(pp), mpc...                                 | mpc (requires mpc)   | emms                           |
+| News reader                           | newsboat, newsbeuter...                           | gnus, newsticker     | elfeed                         |
+| Note taking                           | notion...                                         | org                  | deno                           |
+| Note taking (zettelkasten)            | notion, jupyter, logseq...                        |                      | org-roam                       |
+| PDF/Ebook Viewer                      | evince, zathura, mupdf, xpdf...                   | doc-view             | pdf-view (pdf), nov.el (ebook) |
+| Shell                                 | bash, zsh, fish, ksh, nush...                     | eshell, shell        |                                |
+| Terminal emulator                     | gnome-terminal, konsole, st, urxvt...             | term, ansi-term      | vterm                          |
+| Torrent client                        | qbittorrent, ktorrent, transmission-cli/gtk/qt... |                      | transmission.el                |
+| Version control                       | git, mercurial, cvs, subversion...                | vc                   |                                |
+| Version control (git)                 | git, gitk, tig...                                 | vc                   | magit                          |
