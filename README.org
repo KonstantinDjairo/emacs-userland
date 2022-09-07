@@ -9,7 +9,6 @@ why use a knife when u got a chainsaw?
 
 |                                       | Software                                          | Built-in alternative | Third party alternative        |
 |---------------------------------------+---------------------------------------------------+----------------------+--------------------------------|
-| /                                     | <                                                 |                      | >                              |
 | Agenda, habit/time tracker, TODO list | gnome-todo, task, todoist, tudu...                | org, org-agenda      |                                |
 | Calculator                            | gnome-calculator, kalgebra, kcalc, bc...          | calc                 |                                |
 | Diff tool                             | kompare, diff...                                  | diff, ediff          |                                |
